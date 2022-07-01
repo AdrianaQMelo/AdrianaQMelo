@@ -6,7 +6,7 @@
  - 🤔 I’m looking for help with Python and conections back-to-front<br>
  - 💬 Ask me about my soft skills<br>
  - 📫 How to reach me: sand me a message<br>
- - 😄 Pronouns: Ela/Dela<br>
+ - 😄 Pronouns: Ela/Dela/She<br>
  - ⚡ Fun fact: I love sing in a shower!</p>
   <div>
    <a href="https://github.com/AdrianaQMelo">
