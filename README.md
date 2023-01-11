@@ -22,7 +22,7 @@
    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
    <img align="center" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
-   <img align="right" src="https://i.picasion.com/pic91/670c552d9d9f6d48965c6e63a2cfcdda.gif">
+   <!-- <img align="right" src="https://i.picasion.com/pic91/670c552d9d9f6d48965c6e63a2cfcdda.gif"> -->
    </div>
 
    ##
